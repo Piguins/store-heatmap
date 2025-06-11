@@ -1,8 +1,8 @@
 import telegram
 
 # token account telegram
-my_token = "5923997016:AAEHpePgfXlHjjByjIRawVbF52zpG6xDy9s"
-my_chatid = '5713943154'
+my_token = ""
+my_chatid = ''
 
 # create Bot
 bot = telegram.Bot(token=my_token)
